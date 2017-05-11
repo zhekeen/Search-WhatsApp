@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".controller.access.ui.activity.MainActivity">
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/action_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_new_chat"
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_chat_white_24dp"
+        android:title="@string/action_new_chat"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_more"
+        android:orderInCategory="102"
+        android:title="@string/action_search"/>
+
+</menu>

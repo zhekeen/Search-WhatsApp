@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search WA </string>
+    <string name="searchwithdot">Search...</string>
+    <string name="action_search">Search</string>
+    <string name="action_new_chat">New chat</string>
+    <string name="action_settings">Settings</string>
+</resources>
